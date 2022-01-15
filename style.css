@@ -324,16 +324,6 @@
         font-weight: 300;
         border: 0.1rem solid var(--gray-light-secondary);
         border-radius: 1rem;
-        /* -webkit-border-radius: 1rem;
-    -moz-border-radius: 1rem;
-    -ms-border-radius: 1rem;
-    -o-border-radius: 1rem;
-    margin: 1rem auto;
-    transition: all 0.3s ease;
-    -webkit-transition: all 0.3s ease;
-    -moz-transition: all 0.3s ease;
-    -ms-transition: all 0.3s ease;
-    -o-transition: all 0.3s ease; */
     }
     
     .btn-ghost:hover,
@@ -341,42 +331,6 @@
         background-color: var(--black);
         color: var(--logo-blue);
     }
-    /* @keyframes scrollAnimation {
-    0% {
-        opacity: 0;
-        transform: translate(-50%, 0);
-        -webkit-transform: translate(-50%, 0);
-        -moz-transform: translate(-50%, 0);
-        -ms-transform: translate(-50%, 0);
-        -o-transform: translate(-50%, 0);
-    }
-    40% {
-        opacity: 1;
-    }
-    80% {
-        opacity: 0;
-        transform: translate(-50%, 20px);
-        -webkit-transform: translate(-50%, 20px);
-        -moz-transform: translate(-50%, 20px);
-        -ms-transform: translate(-50%, 20px);
-        -o-transform: translate(-50%, 20px);
-    }
-    100% {
-        opacity: 0;
-    }
-}
-
-@keyframes blink {
-    0% {
-        opacity: 1;
-    }
-    50% {
-        opacity: 0;
-    }
-    100% {
-        opacity: 1;
-    }
-} */
     
     .portfolio-img {
         height: 180px;
