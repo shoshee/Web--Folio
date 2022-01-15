@@ -1,0 +1,34 @@
+#edu-text {
+    color: wheat;
+    margin-top: 20px;
+    padding-top: 80px;
+}
+
+.edu {
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.qiBKThyIZRroy8a3ncoY5wHaEK&pid=Api&P=0&w=272&h=153);
+    /* background: linear-gradient(to right, whitesmoke, gray); */
+    height: 250px;
+    text-align: center
+}
+
+.line-design {
+    font-weight: 600;
+}
+
+.big {
+    font-size: 20px;
+}
+
+.sagc-logo {
+    width: 150px;
+    height: 150px;
+}
+
+.edu-degree {
+    background-color: rgb(195, 201, 195);
+}
+
+.ju-logo {
+    width: 150px;
+    height: 150px;
+}

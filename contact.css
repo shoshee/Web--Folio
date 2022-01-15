@@ -1,0 +1,20 @@
+.contact-information {
+    margin-top: 20px;
+    padding-top: 80px;
+    font-size: 25px;
+}
+
+.social-link a {
+    font-size: 40px;
+    position: relative;
+    padding: 5px;
+}
+
+#fb {
+    margin-left: 600px;
+}
+
+.london-img {
+    height: 300px;
+    width: 100%;
+}

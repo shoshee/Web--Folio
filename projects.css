@@ -1,0 +1,17 @@
+.projects {
+    background-image: url(https://wallpaperaccess.com/full/1638902.jpg);
+    height: 700px;
+}
+
+#projects-text {
+    color: wheat;
+    margin-top: 20px;
+    padding-top: 80px;
+    font-size: 35px;
+}
+
+.project-list {
+    font-size: 20px;
+    margin-left: 25px;
+    color: rgb(194, 194, 188);
+}
